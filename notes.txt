@@ -1,0 +1,7 @@
+npm init -y - ставим package.json с "базовыми настройками"
+npm i -D nodemon cross-env
+npm i telegraf - фреймворк для ботов телеграмма
+npm i config - для работы с переменными 
+
+npm i axios fluent-ffmpeg @ffmpeg-installer/ffmpeg - для скачивания и конвертации файлов
+
